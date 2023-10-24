@@ -1,8 +1,6 @@
-# Tutorial Shortly Website of Brad Traversy
+# Tutorial Fylo Website of Brad Traversy
 
 Based on Simple Tailwind Starter
-
-## Deployed to Vercel
 
 ## References:
 
